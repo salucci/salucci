@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matheus Salucci Vieira
+- 👋 Hi, I’m Matheus Salucci
 - contact: matheussalucci@hotmail.com
 
 <!---
